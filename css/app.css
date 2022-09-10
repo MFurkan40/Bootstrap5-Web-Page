@@ -1,0 +1,81 @@
+/*! -------------- 1- NAVBAR ---------------- */
+
+/*! -------------- 2- BANNER ---------------- */
+.banner {
+  background-image: url("../img/banner.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 20% 0;
+  height: 100vh;
+}
+
+.banner h1,
+.banner h2 {
+  color: #800080;
+  margin-bottom: 0.5rem;
+}
+
+/*! ------------- 3- SERVİCES -------------*/
+.circle {
+  display: inline-block;
+  background-color: #dc3545;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+}
+
+.circle i {
+  margin: 2rem auto;
+  color: white;
+}
+
+.services h3 {
+  margin-top: 1rem;
+}
+
+/*! ----------- 4- PORTFOLİO SECTION----------*/
+
+/*! ------------ 5- ABOUT SECTION ----------- */
+
+section #portfolio .row {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+/*! ----------- 6- TEAM SECTION ----------- */
+
+.members {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+.social-media a i {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+/*! ----------- 7- COMPANİES SECTION----------- */
+
+.company img {
+  height: auto;
+  max-height: 50px;
+}
+
+/*! ----------- 8- CONTACT SECTION ------------ */
+
+#contact {
+  background-image: url("../img/contact.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 20% 0;
+  color: #eee;
+}
+
+/*! --------------- 9- FOOTER ----------------- */ ;
