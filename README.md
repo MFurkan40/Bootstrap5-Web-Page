@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project - 006 : Bootstrap Web Page (HC-06)
 
 Our goal in this project is to create a web page using bootstrap 5 at a basic level.
